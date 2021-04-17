@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="20210417selfcore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/20210417selfcore_jar</output-path>
+    <root id="archive" name="20210417selfcore.jar">
+      <element id="module-output" name="20210417selfcore" />
+    </root>
+  </artifact>
+</component>
